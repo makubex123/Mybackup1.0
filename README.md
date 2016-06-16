@@ -3,4 +3,4 @@ Este script se se centra en crear de manera rapida un backup de tus archivos y u
 
 #Notificacion por email
 
-El scritp tambien consta con la notificacion por email una vez el backup alla terminado de manera satisfactoria, ahora bien se necesita tener instalado el paquete mailutils para poder recibir tu correo. 
+El scritp tambien consta con la notificacion por email una vez el backup alla terminado de manera satisfactoria, ahora bien se necesita tener instalado el paquete "mailutils" para poder recibir tu correo. 
