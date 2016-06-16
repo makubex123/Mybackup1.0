@@ -70,7 +70,7 @@ echo -e "\n Copiando los archivos $backup al directorio $USER.backup espere... \
 
 #En esta linea de comando manda un correo cuando el backup se ha completadom correctamente, NOTA!!! PARA QUE ESTO FUNCIONE TIENE QUE TENER INSTALADO EL PAQUETE mailutils 
 
-echo "los archivos se han copiado correctamente" | mail -s "MyBackupReport" adam.daniels.stallman@gmail.com
+#echo "los archivos se han copiado correctamente" | mail -s "MyBackupReport" adam.daniels.stallman@gmail.com
 fi
 sleep 2
 
